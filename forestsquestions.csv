@@ -1,0 +1,121 @@
+S.No.,Question,A,B,C,D,Correct
+1,Tropical moist forests do not include,broadleaved forests,wet evergreen forests,semi-evergreen forests,moist deciduous forests,A
+2,Which of these is not a use value?,direct value,indirect value,option value,existence value,D
+3,The value derived from the knowledge of use of resources by others in the current generation is called,altruistic value,bequest value,existence value,option value,A
+4,Montane sub-tropical forests do not include,broadleaved forests,pine forests,semi-evergreen forests,dry evergreen forests,C
+5,"“Plant community, predominantly comprised of trees and other woody vegetation, usually with a closed canopy"" is",silvicultural definition of forests,FAO definition of forests,legal definition of forests,ecological definition of forests,D
+6,Which of these is not a consumptive value?,timber,firewood,non-timber forest products,education,D
+7,The term 'forest' originates from,Latin foris meaning outside,Greek foris meaning outside,Latin foris meaning trees,Greek foris meaning trees,A
+8,The value of leaving use and non-use values for offspring's or future generations is called,altruistic value,bequest value,existence value,option value,B
+9,Which of these is not a forest type found in India?,Mediterranean dry,Tropical dry,Montane temperate,Alpine,A
+10,"According to the Supreme Court, the term forest land includes",some area recorded as forest in the Government record according to ownership,any area recorded as forest in the Government record according to ownership,some area recorded as forest in the Government record irrespective of ownership,any area recorded as forest in the Government record irrespective of ownership,D
+11,"In the context of plant nutrition, boron is",macronutrient,micronutrient,primary nutrient,secondary nutrient,B
+12,The art and science of cultivating forest crops is called,foresticulture,monoculture,silviculture,silvics,C
+13,The climax near Tindni village is being controlled by disturbance by cattle. This is an example of,climatic climax,edaphic climax,disclimax,catastrophic climax,C
+14,Which of these is not a characteristic of pioneer species,ability to grow on bare rocks,ability to tolerate extreme temperatures,large size,short life span,C
+15,Which of these depicts correctly the lithosere primary succession?,Rock → Crustose lichen → Foliose lichen → Moss → Herbaceous stage → Shrub →Woodland → Climax,Rock → Foliose lichen → Crustose lichen → Moss → Herbaceous stage → Shrub →Woodland → Climax,Moss → Crustose lichen → Foliose lichen → Rock → Herbaceous stage → Shrub →Woodland → Climax,Rock → Crustose lichen → Foliose lichen → Shrub → Herbaceous stage → Moss →Woodland → Climax,A
+16,The study of life history or general features of forest crops with respect to environmental factors is called,foresticulture,monoculture,silviculture,silvics,D
+17,Net primary productivity is given by,APAR + LUE,APAR x LUE,APAR - LUE,APAR by LUE,B
+18,A climax caused by wildfires is an example of,climatic climax,edaphic climax,disclimax,catastrophic climax,D
+19,"Practical application of scientific, technical and economic principles of forestry comes under which branch of forestry?",forest management,forest economics,forest mensuration,forest protection,A
+20,Which of these is abiotic factor?,vines,trees,reptiles,water,D
+21,Regur is a term for,black cotton soil,alluvial soil,saline soil,red and yellow soil,A
+22,Carbonation is an example of,chemical weathering,physical weathering,biological weathering,none of the above,A
+23,Bangar is a type of,black cotton soil,alluvial soil,saline soil,red and yellow soil,B
+24,Cryofracturing is an example of,chemical weathering,physical weathering,biological weathering,none of the above,B
+25,"In soil profile, C refers to",organic surface layer,topsoil layer,subsoil layer,substratum layer,D
+26,Vertical arrangement of soil horizons is called,soil texture,soil structure,soil profile,soil science,C
+27,Thermal stresses lead to,chemical weathering,physical weathering,biological weathering,none of the above,B
+28,Khadar is a type of,black cotton soil,alluvial soil,saline soil,red and yellow soil,B
+29,Hydrolysis is an example of,chemical weathering,physical weathering,biological weathering,none of the above,A
+30,Which of these has the highest organic matter content?,peaty soil,alluvial soil,saline soil,red and yellow soil,A
+31,Measurement of height based on similar triangles comes under:,similar measurement,dissimilar measurement,direct measurement,indirect measurement,D
+32,"For normal form factor, the reference for the base of the cylinder is",base of the tree,breast height,10 percent of tree height,20 percent of tree height,C
+33,"In a triangle, the angle between base and hypotenuse, θ = 60° and the hypotenuse c = 2 cm. Find the length of the base b.",0.33,0.5,0.75,1,D
+34,"3 trees are located in a sample plot of 15 m x 15 m. Their dbh are as under: dbh = 25 cm, 30 cm, 35 cm. Find the stand basal area in sq m per Ha.",9.6,14.6,21.6,27.6,A
+35,Consider a stand of eucalyptus trees that are on average 30 cm in diameter and spaced on a regular 3 m griFind the spacing factor.,5,10,15,data insufficient,B
+36,"For a tree with dbh = 45.6 cm, height = 27 m and total stem volume of 1.78 cum, the artificial form factor for the tree is:",0.1,0.2,0.3,0.4,D
+37,"For absolute form factor, the reference for the base of the cylinder is",base of the tree,breast height,10 percent of tree height,20 percent of tree height,A
+38,"Diameter over bark (dob), diameter under bark (dub) and bark thickness (tb) are related as:",dob = dub + tb,dob = dub - tb,dob = dub + 2 x tb,dob = dub - 2 x tb,C
+39,Choose the correct statement:,"For a non-circular cross-section, girth tape over-estimates the sectional area.","For a non-circular cross-section, girth tape under-estimates the sectional area.","For a non-circular cross-section, girth tape correctly estimates the sectional area.",None of these is a correct statement.,A
+40,A tree has dbh of 25 cm. Find its basal area in sq m.,0.049,0.096,0.149,0.195,A
+41,The frequency of flyovers is an indicator of,spatial resolution,temporal resolution,spectral resolution,radiometric resolution,B
+42,___ is how close the measured values are to the correct value.,Accuracy,Precision,Bias,Variance,A
+43,“This sampling employs a simple rule of selecting every kth unit starting with a number chosen at random from 1 to k as the random start.” We're talking about,Simple random sampling,Systematic sampling,Stratified sampling,Multistage sampling,B
+44,A list of sampling units is called a,frame,window,sample,population,A
+45,Which of these is correct?,Plane surveying takes into account the true shape of the Earth and is used for smaller areas (< 250 sq km),Plane surveying takes into account the true shape of the Earth and is used for larger areas (> 250 sq km),Geodetic surveying takes into account the true shape of the Earth and is used for smaller areas (< 250 sq km),Geodetic surveying takes into account the true shape of the Earth and is used for larger areas (> 250 sq km),D
+46,A sampling procedure such that each possible combination of sampling units out of the population has the same chance of being selected is referred to as,Simple random sampling,Systematic sampling,Stratified sampling,Multistage sampling,A
+47,Bathymetric LiDAR uses,far infrared light,near infrared light,orange light,green light,D
+48,IMU stands for,Imperial metering unit,Inertial metering unit,Imperial measurement unit,Inertial measurement unit,D
+49,___ is how close the measured values are to each other.,Accuracy,Precision,Bias,Variance,B
+50,The time of flight for LiDAR is 0.00001 seFind the distance of the object from the instrument.,500 m,1000 m,1500 m,2000 m,C
+51,"A scientist uses a trap to capture a monkey. In the context of Wildlife Protection Act 1972,",the trap is a weapon and capturing is hunting.,the trap is not a weapon and capturing is hunting.,the trap is a weapon and capturing is not hunting.,the trap is not a weapon and capturing is not hunting.,A
+52,"In the formula I = PXAXT, P refers to",professional pressure,pollution pressure,population pressure,none of the above,C
+53,Which of these is a deterministic factor?,environmental variation,forest fire,death rate,diseases,C
+54,Which of these is a stochastic factor?,birth rate,death rate,population structure,forest fire,D
+55,"In the formula I = PXAXT, T refers to",transference,time,technology,none of the above,C
+56,Which of these forms the fire triangle?,"fire, air, heat","fire, oxygen, wood","fuel, air, wood","fuel, oxygen, heat",D
+57,"A veterinarian uses an immobilising gun to capture a deer. In the context of Wildlife Protection Act 1972,",the immobilising gun is a weapon and capturing is hunting.,the immobilising gun is not a weapon and capturing is hunting.,the immobilising gun is a weapon and capturing is not hunting.,the immobilising gun is not a weapon and capturing is not hunting.,A
+58,Invasive climbers increase the probability of which of these fire types?,ground fire,surface fire,ladder fire,firestorm,C
+59,The acronym HIPPO does not include,habitat loss,habitat enhancement,over-harvesting,human over-population,B
+60,The acronym HIPPO does not include,habitat loss,invasive species,pollination,pollution,C
+61,A site was clear-cut. Which of these methods of regeneration cannot be used in a short time-frame?,natural regeneration,artificial regeneration by direct sowing,artificial regeneration by planting seedlings,artificial regeneration by transplanting trees,A
+62,Average age at which a tree is considered mature for felling is called as,crop age,felling age,rotation age,maturity age,C
+63,Which of these is not a feature of natural regeneration,low cost,less requirement of heavy machinery and labour,preservation of genetic variability,good control over genetic improvement,D
+64,Ring weeding is primarily a feature of,natural regeneration,assisted natural regeneration,artificial regeneration by direct sowing,artificial regeneration by planting seedlings,B
+65,The movement of seeds away from their place of seed production into a new area is called,translocation,migration,dispersal,drifting,C
+66,Which of these is not a feature of natural regeneration,seed consumption by insects and seed feeders,little control over spacing and stand density,long time needed to regenerate forest,high requirement of heavy machinery and labour,D
+67,Which of these is the correct sequence of a silvicultural system?,Stand tending -> Regeneration -> Harvesting,Harvesting -> Stand tending -> Regeneration,Harvesting -> Regeneration -> Stand tending,Regeneration -> Harvesting -> Stand tending,C
+68,Which of these is not advantage of clear felling system,"Simple system, easy and efficient operations",Allows for establishment of a more uniform crop,Increases soil erosion and landslides in hilly areas,Mimics natural processes of fire and large-scale insect attacks,C
+69,Tending is done during,early stage of life,middle stage of life,late stage of life,any stage of life,D
+70,Taungya regeneration is,natural regeneration,artificial regeneration with villagers,artificial regeneration with nomadic tribes,artificial regeneration with hunters and gatherers,B
+71,Trees not putting increment are removed during,preparatory felling,seeding felling,secondary felling,final felling,A
+72,"For a crop with rotation age of 120 years, PB-III would have crop age",0-30 years,30-60 years,60-90 years,90-120 years,B
+73,Close to nature forestry is a feature of,clear felling system,selection system,uniform shelterwood system,group shelterwood system,B
+74,Shelterwood system results in,even aged stand with natural aesthetics,even aged stand with artificial aesthetics,uneven aged stand with natural aesthetics,uneven aged stand with artificial aesthetics,A
+75,Inverse-J shaped number-diameter curves are seen in,clear felling system,selection system,uniform shelterwood system,group shelterwood system,B
+76,Clear felling system is not used for,light demanding species,shade bearer species,plain areas,plateau areas,B
+77,Which of these is the correct sequence for shelterwood system?,Preparatory felling ->Secondary felling -> Seedling felling -> Final felling,Preparatory felling -> Seedling felling -> Secondary felling -> Final felling,Preparatory felling ->Secondary felling -> Seeding felling -> Final felling,Preparatory felling -> Seeding felling -> Secondary felling -> Final felling,D
+78,Felling made with the object of opening the canopy to remove shelter and allow more light for the regenerated crop is,preparatory felling,seeding felling,secondary felling,final felling,C
+79,"In group shelterwood system, the regeneration area is increased",centrifugally around gaps,centripetally around gaps,parallel to gaps,perpendicular to gaps,A
+80,Catchment areas are best suited for,clear felling system,selection system,uniform shelterwood system,group shelterwood system,B
+81,Moving of logs from forest to landing area is known as,marking,bucking,skidding,delimbing,C
+82,Research plots are shown in ___ marking colour,yellow,blue,red,white,D
+83,Which of these gives the greatest accuracy in constructing face cuts,conventional face,humboldt face,open face,all of these,A
+84,Careful selection of trees for harvesting based on a forest management prescription is known as,surveying,cruising,marking,logging,C
+85,Surveying timberlands to locate and estimate the volumes and grades of standing timber meeting requirements is known as,surveying,cruising,marking,logging,B
+86,Trees on boundary are shown in ___ marking colour,yellow,blue,red,white,C
+87,Cutting of timber into logs is known as,marking,bucking,skidding,delimbing,B
+88,Which of these gives the greatest saving of lumber,conventional face,humboldt face,open face,all of these,B
+89,Trees to be retained are shown in ___ marking colour,yellow,blue,red,white,B
+90,Net growth in initial volume is given by,V2-V1,V2-V1+H-I,V2-V1+H-I+M,V2-V1+H-I-M,B
+91,Shell cracking of seeds is used for which species,amla,mango,ber,teak,C
+92,Wet and dry treatment of seeds is used for which species,amla,mango,ber,teak,D
+93,Agave is used for,barbed wire fencing,live fencing,chain link fencing,stone wall fencing,B
+94,Which of these is not a laboratory method to determine best days for seed collection?,maximum dry weight,colour of fruits,moisture content of fruits,chemical analysis of fat and nitrogen content,B
+95,Which of these characterises a refractory site,soil depth < 10 cm,soil depth 10-30 cm,soil depth > 30 cm,none of these,A
+96,Which of these is a good storage condition,"high moisture, high temperature","high moisture, low temperature","low moisture, high temperature","low moisture, low temperature",D
+97,Which of these prevents water logging,sunken bed,raised bed,flat bed,all of these,B
+98,Choice of spacing is dependent upon,objective of plantation,site-species matching,growth rate,all of these,D
+99,Which of these conserves moisture,sunken bed,raised bed,flat bed,all of these,A
+100,Number of seeds in sample that germinate upto the peak germination period expressed as percent is a definition of,germination number,germination percentage,germination energy,germination power,C
+101,"The tiger has a home range of several square kilometres, regulates the ecosystem through controlling herbivore populations and trophic cascades, and people come to tiger reserves to watch tigers. Thus, the tiger can be called as",umbrella species,keystone species,flagship species,all of the above,D
+102,Zoo is an example of,in-situ conservation,ex-situ conservation,in-situ preservation,ex-situ preservation,B
+103,Sustainable harvest of resources falls under the category of:,conservation,preservation,environmentalism,none of the above,A
+104,We prefer those areas for the creation of a conservation reserve where the level of threat is,very high,medium,very low,non-existent,B
+105,Captive breeding is an example of,in-situ conservation,ex-situ conservation,in-situ preservation,ex-situ preservation,B
+106,Which of these is not a forest classification as per the 1894 Forest Policy:,protection forest,production forest,minor forest,major forest,D
+107,"In 1931, Van Panchayats were constituted in areas that are now in",Tamil Nadu,Madhya Pradesh,West Bengal,Uttarakhand,D
+108,Planting along canal banks is a part of,farm forestry,community forestry,extension forestry,agroforestry,C
+109,"The fig tree bears fruits in times when animals do not have much access to fooIn this context, it would be a good example of",least concern species,keystone species,flagship species,extinct species,B
+110,"The elephant has a home range of several square kilometres, regulates the ecosystem by its habit of destructive feeding, and people can relate to this animal which is important for conservation. Given this background, the elephant can be called as",umbrella species,keystone species,flagship species,all of the above,D
+111,A tree has dbh of 35 cm. Find its basal area in sq m.,0.049,0.096,0.149,0.195,B
+112,"In a triangle, the angle between base and hypotenuse, θ = 60° and the hypotenuse c = 4 cm. Find the length of the base b.",0.66,1,1.5,2,D
+113,“allowing some places and some creatures to exist without significant human interference” is a definition of,conservation,preservation,environmentalism,all of these,B
+114,"In India, the breast height is considered to be",1.37 m,1.47 m,1.57 m,2.47 m,A
+115,The term laterite soil is derived from Latin later which means,red,brick,fertile,infertile,B
+116,Which of these is not a non-use value?,direct value,existence value,altruistic value,bequest value,A
+117,“Science of relationships between organisms and their environments” is the definition of:,conservation,preservation,environmentalism,ecology,D
+118,Self ploughing character is seen in,black cotton soil,alluvial soil,saline soil,red and yellow soil,A
+119,Mechanical action of ocean waves is an example of,chemical weathering,physical weathering,biological weathering,none of the above,B
+120,Lithosere is an example of,hydrosere,xerosere,psammosere,halosere,B
